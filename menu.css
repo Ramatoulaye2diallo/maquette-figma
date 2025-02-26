@@ -1,0 +1,100 @@
+body{
+    background-color: white;
+    overflow-x: hidden; /*pour fixer les differents pages*/
+   
+}
+ .header_first{
+    background-color: white;
+ }
+.image__logo11{
+    position: relative;
+    width: 50px;
+    margin-left: 100px;
+    padding: 30px;
+}
+.navigation ul{
+    position: relative;
+    display: flex;
+    list-style: none;
+    gap: 15px; /* permet d augmenter la distance entre des elements*/
+    margin: 0%;
+    left: 150px;
+   
+}
+ .navigation li{
+    position: relative;
+    margin-left: 20px;
+    bottom: 70px; 
+}
+.ligne_de_commande{
+    text-align: center;
+    padding: 30px;
+    background-color: red;
+}
+.button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+.section_menu{
+    margin-left: 150px;
+}
+
+.logation{
+    width: 200px;
+    margin-left: 20px;
+
+}
+
+.paragraphe{
+    position: relative;
+    bottom: 20px;
+ 
+}
+.rouge{
+    color: rgb(244, 16, 16);
+}
+
+.les_entres{
+    text-align: center;
+    
+   
+}
+
+hr{
+    background-color: red;
+    padding: 2px;
+    width: 99px;
+}
+.frit{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    padding-top: 30px;
+}
+.footer_icon{
+    background-color: black;
+    height: 100px;
+    padding: 30px;
+}
+
+.instagrame{
+    margin-left: 900px;
+    height: 28px;
+}
+
+.facebooc{
+    height: 28px;
+}
+.mapse{
+    height: 28px;
+}
+a{
+    text-decoration: none;
+}
+.menue{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
